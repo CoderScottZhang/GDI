@@ -1,28 +1,29 @@
 //
-//  ViewController.m
+//  HistoryViewController.m
 //  气体检测
 //
 //  Created by ScottZhang on 16/5/10.
 //  Copyright © 2016年 Scott. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "HistoryViewController.h"
 
-@interface ViewController ()
+@interface HistoryViewController ()
 
 @end
 
-@implementation ViewController
+@implementation HistoryViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"hello github");
+    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+
 
 @end

@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AdviceViewController.h
 //  气体检测
 //
 //  Created by ScottZhang on 16/5/10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AdviceViewController : UIViewController
 
 @end
-
